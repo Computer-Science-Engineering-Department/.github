@@ -1,6 +1,6 @@
 # Department of Computer Science and Engineering
 
-Welcome to the official GitHub profile of the Department of Computer Science and Engineering (CSE) at Mar Baselios Christian College of Engineering and Technology (MBCCET), Peermade. This organization serves as a hub for showcasing the innovative projects and contributions of our students who did their mini and main projects as well as other academic projects.
+Welcome to the official GitHub profile of the Department of Computer Science and Engineering (CSE) at Mar Baselios Christian College of Engineering and Technology (MBCCET), Peermade. This organization serves as a hub for showcasing the innovative projects and contributions of our students, including their mini-projects, main projects, and other academic endeavors.
 
 ## About Us
 
@@ -70,14 +70,15 @@ After completing the program, graduates will:
 Each project contributed by students will have its dedicated folder under the corresponding academic year and batch. The structure of the repository is as follows:
 
 ```
-mini project 2024/
-├── Project-1/
-├── Project-2/
-└── ...
-main project 2025/
-├── Project-1/
-├── Project-2/
-└── ...
+Computer-Science-Engineering-Department
+├──mini project 2024/
+|   ├── Project-1/
+|   ├── Project-2/
+|   └── ...
+├──main project 2025/
+    ├── Project-1/
+    ├── Project-2/
+    └── ...
 ```
 
 ## How to Upload Your Project
@@ -161,6 +162,6 @@ Together, let's create a repository of innovation and excellence!
 
 
 
-Done by:
-Justine Biju Paul & Rebeen Thomas George
+Done by:\
+Justine Biju Paul & Rebeen Thomas George\
 [ CSE 2022-2026 ]
