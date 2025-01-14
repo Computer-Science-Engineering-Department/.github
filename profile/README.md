@@ -1,6 +1,6 @@
 # Department of Computer Science and Engineering
 
-Welcome to the official GitHub profile of the Computer Science and Engineering (CSE) Department at Mar Baselios Christian College of Engineering and Technology (MBCCET), Peermade. This organization serves as a hub for showcasing the innovative projects and contributions of our students who did their mini and main projects as well as other academic projects.
+Welcome to the official GitHub profile of the Department of Computer Science and Engineering (CSE) at Mar Baselios Christian College of Engineering and Technology (MBCCET), Peermade. This organization serves as a hub for showcasing the innovative projects and contributions of our students who did their mini and main projects as well as other academic projects.
 
 ## About Us
 
