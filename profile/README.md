@@ -71,11 +71,11 @@ Each project contributed by students will have its dedicated folder under the co
 
 ```
 Computer-Science-Engineering-Department
-├──mini project 2024/
+├──mini-project-2024/
 |   ├── Project-1/
 |   ├── Project-2/
 |   └── ...
-├──main project 2025/
+├──main-project-2025/
     ├── Project-1/
     ├── Project-2/
     └── ...
