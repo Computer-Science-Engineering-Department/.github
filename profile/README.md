@@ -73,5 +73,5 @@ Together, let's create a community of innovation and excellence!
 
 
 Done by:\
-Justine Biju Paul & Rebeen Thomas George\
+Rebeen Thomas George & Justine Biju Paul\
 [ CSE 2022-2026 ]
